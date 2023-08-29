@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Nazli Merve Kilic
+Hi there !  👋 
+
+- 😄 I'm Nazli Merve Kilic.
 - 👀 I’m looking for a job on full stack development.
 - 🌱 I’m currently developing myself C#.
 - 💞️ How to reach me nazlimervekilic1@gmail.com
